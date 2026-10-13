@@ -1,0 +1,36 @@
+- id: plant-community-change
+  title: Plant community change
+  question: How do plant communities change over time?
+  summary: Synthesising evidence on long-term changes in local plant biodiversity.
+  description: >-
+    My doctoral research examines changes in local plant communities across
+    habitats and environmental contexts. Through literature synthesis, I study
+    patterns in species richness and other measures of diversity, alongside
+    the environmental drivers associated with those changes.
+  methods: Literature synthesis · Community ecology · Quantitative analysis
+  publication_doi: https://doi.org/10.1016/j.jnc.2026.127419
+  publication_label: Read the literature review
+- id: vegetation-resurveys
+  title: Vegetation resurveys
+  question: What can repeated observations tell us about ecological change?
+  summary: Bringing historical and contemporary vegetation observations together.
+  description: >-
+    Vegetation resurveys provide a window into long-term ecological change.
+    I contributed to ReSurveyEurope, a database of resurveyed vegetation plots
+    across Europe. My research also considers how study design, observation
+    timing, and uncertainty shape the conclusions drawn from resurvey data.
+  methods: Vegetation data · Data synthesis · Resurvey methodology
+  publication_doi: https://doi.org/10.1111/jvs.13235
+  publication_label: Read the ReSurveyEurope paper
+- id: biological-invasions
+  title: Biological invasions
+  question: How are alien species distributions changing?
+  summary: Examining geographic patterns, long-term trends, and gaps in our knowledge.
+  description: >-
+    My collaborative work addresses the distributions and temporal trends of
+    alien species, and the data needed to understand them. Contributions include
+    global syntheses, the IPBES Invasive Alien Species Assessment, and DASCO,
+    a workflow for refining alien species distributions using occurrence records.
+  methods: Invasion ecology · Spatial data · Reproducible workflows
+  publication_doi: https://doi.org/10.1111/brv.70058
+  publication_label: Read the global assessment

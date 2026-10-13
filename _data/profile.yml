@@ -1,0 +1,17 @@
+# Edit this file to update your introduction and contact details throughout the site.
+name: Ekin Kaplan
+headline: Ecologist studying biodiversity change
+role: PhD candidate in Ecology
+affiliation: University of Vienna
+location: Vienna, Austria
+email: ekinkaplan@gmail.com
+intro: >-
+  I study how plant communities change over time, using vegetation resurveys,
+  ecological data synthesis, and quantitative analysis.
+portrait: /assets/images/ekin-kaplan.jpg
+portrait_alt: Black-and-white portrait of Ekin Kaplan
+cv: /assets/files/ekin-kaplan-cv.pdf
+cv_label: Download CV (PDF · August 2026)
+scholar: https://scholar.google.com/citations?user=xG8QNBMAAAAJ
+orcid: https://orcid.org/0000-0002-7303-5883
+github: https://github.com/ekinkaplan

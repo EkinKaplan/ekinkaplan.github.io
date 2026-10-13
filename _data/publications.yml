@@ -1,0 +1,50 @@
+# Newest entries first. Keep each entry's fields indented by two spaces.
+# featured: true includes the entry on the homepage (maximum three shown).
+# Use full DOI URLs. The list currently shows titles and contribution roles;
+# add verified author lists later if desired.
+- title: "Assessing the trajectories of local plant community change: a literature review"
+  year: 2026
+  journal: Journal of Nature Conservation
+  role: First author
+  doi: https://doi.org/10.1016/j.jnc.2026.127419
+  featured: true
+  type: journal
+- title: "Biological invasions: a global assessment of geographic distributions, long-term trends, and data gaps"
+  year: 2025
+  journal: Biological Reviews
+  role: Co-author
+  doi: https://doi.org/10.1111/brv.70058
+  featured: true
+  type: journal
+- title: "ReSurveyEurope: A database of resurveyed vegetation plots in Europe"
+  year: 2024
+  journal: Journal of Vegetation Science
+  role: Co-author
+  doi: https://doi.org/10.1111/jvs.13235
+  featured: true
+  type: journal
+- title: The neglected importance of managing biological invasions for sustainable development
+  year: 2024
+  journal: People and Nature
+  role: Co-author
+  doi: https://doi.org/10.1002/pan3.10712
+  featured: false
+  type: journal
+- title: "DASCO: A workflow to downscale alien species checklists using occurrence records and to re-allocate species distributions across realms"
+  year: 2022
+  journal: NeoBiota
+  role: Co-author
+  doi: https://doi.org/10.3897/neobiota.74.81082
+  featured: false
+  type: journal
+- title: "IPBES Invasive Alien Species Assessment: Chapter 2. Trends and status of alien and invasive alien species"
+  journal: IPBES
+  role: Contributing author
+  featured: false
+  type: report
+- title: The effect of plant diversity and ground cover on seedling establishment of Diplotaxis tenuifolia (L.) DC. in the central anatolian steppe
+  year: 2021
+  journal: Middle East Technical University
+  role: Master's thesis
+  featured: false
+  type: thesis
