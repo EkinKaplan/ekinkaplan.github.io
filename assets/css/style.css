@@ -5,3 +5,9 @@
 @media(max-width:540px){.site-shell{padding:0 22px}.site-header{padding:20px 0 12px}.wordmark{font-size:27px}.site-header nav{gap:19px;font-size:13px}.hero{display:flex;flex-direction:column;align-items:flex-start;gap:26px;padding:35px 0}.hero h1{font-size:37px}.lead{font-size:17px}.portrait{width:150px;height:150px;align-self:flex-start}.eyebrow{font-size:10px}.research-grid,.research-detail{grid-template-columns:1fr}.research-grid{gap:26px}.research-summary{display:grid;grid-template-columns:24px minmax(0,1fr);column-gap:13px}.research-summary .index-number{grid-row:1/3;margin-top:4px}.research-summary h3{margin-bottom:8px}.research-summary p{grid-column:2}.section-heading{display:block;margin-bottom:18px}.section-heading>.text-link{margin-top:6px}.publication{grid-template-columns:36px minmax(0,1fr);gap:13px}.publication h3{font-size:21px}.publication-meta{font-size:12px}.publication .paper-link{min-height:44px}.section{padding:27px 0}.site-footer{flex-direction:column;gap:13px}.site-footer nav{gap:18px}.page-heading{padding:34px 0}.research-detail{gap:20px;padding:30px 0}.actions{gap:20px}h2{font-size:28px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 @media print{.site-header nav,.site-footer nav,.actions,.skip-link{display:none}body{background:white;color:black}.site-shell{max-width:none}.hero{padding:20px 0}.publication,.research-detail{break-inside:avoid}a{text-decoration:none}}
+.portrait {
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  clip-path: circle(47% at 50% 50%);
+}
