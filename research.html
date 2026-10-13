@@ -1,0 +1,11 @@
+---
+layout: default
+title: Research
+permalink: /research/
+description: Research on plant community change, vegetation resurveys, and biological invasions.
+---
+<header class="page-heading"><p class="eyebrow">Questions & approaches</p><h1>Research</h1><p class="lead">Understanding biodiversity change through ecological observations, data synthesis, and quantitative analysis.</p></header>
+{% for topic in site.data.research %}
+<section class="research-detail" id="{{ topic.id }}"><div><p class="eyebrow">0{{ forloop.index }} / {{ topic.title | escape }}</p><h2>{{ topic.question | escape }}</h2></div><div><p>{{ topic.description | escape }}</p><p class="methods">{{ topic.methods | escape }}</p><a class="text-link" href="{{ topic.publication_doi | escape }}">{{ topic.publication_label | escape }} <span aria-hidden="true">↗</span></a></div></section>
+{% endfor %}
+<div class="page-end"><a class="text-link" href="{{ '/publications/' | relative_url }}">Browse all publications <span aria-hidden="true">→</span></a></div>

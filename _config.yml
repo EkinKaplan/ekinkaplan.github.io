@@ -1,0 +1,17 @@
+title: Ekin Kaplan
+description: Ecologist studying plant communities, biodiversity change, and biological invasions.
+url: https://ekinkaplan.github.io
+baseurl: ""
+lang: en
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - UPDATE-GUIDE.md
+  - REVIEW-NOTES.md
+  - Gemfile
+  - Gemfile.lock
+  - scripts
+  - vendor
+  - preview.html
+  - requirements.txt
